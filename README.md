@@ -3,3 +3,17 @@
   
   
   <img src="Data/Screenshot 2022-12-10 203828.png" height="240" >
+
+
+## Libraries
+* Time
+
+
+
+## Requirements
+* Pycharm
+* Python
+
+## Code 
+
+* [Code](code/Timer.py)
